@@ -1,0 +1,5 @@
+erc: 
+what:"مقالة نشرت بعمود "فيتو" بعنوان "المثقفون في بلادي | An article entitled "The Well-Read in My Country" published in the "Vito" column ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m58m4r9q
+where: https://palarchive.org/index.php/Detail/objects/123325/lang/en_US

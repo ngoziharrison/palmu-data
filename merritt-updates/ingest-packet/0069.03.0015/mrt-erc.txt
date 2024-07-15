@@ -1,0 +1,5 @@
+erc: 
+what:"رواية كتبها يعقوب الشوملي بعنوان " من الهزيمة الى النصر | A novel entitled "From Defeat to Victory" written by Ya'qoub al-Shoumali ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m5d86sn5
+where: https://palarchive.org/index.php/Detail/objects/96123/lang/en_US

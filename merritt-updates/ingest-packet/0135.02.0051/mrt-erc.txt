@@ -1,0 +1,5 @@
+erc: 
+what:"أخبار فنية"، قصاصات جرائد، 1988 | "Art News", Newspaper Clippings, 1988 ; The Adnan Zubaidy Collection
+who: no data
+where: ark:/13030/m5wt6gq6
+where: https://palarchive.org/index.php/Detail/objects/217916/lang/en_US

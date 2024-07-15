@@ -1,0 +1,5 @@
+erc: 
+what:سند قبض | Receipt ; The Palestine New Federation of Trade Unions Collection
+who: no data
+where: ark:/13030/m5hf57vh
+where: https://palarchive.org/index.php/Detail/objects/215213/lang/en_US

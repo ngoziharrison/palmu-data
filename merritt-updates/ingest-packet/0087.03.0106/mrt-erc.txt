@@ -1,0 +1,5 @@
+erc: 
+what:فاتورة مبيعات | Sales Invoice ; The Arab Development Society Collection
+who: no data
+where: ark:/13030/m5zm2zz5
+where: https://palarchive.org/index.php/Detail/objects/205022/lang/en_US

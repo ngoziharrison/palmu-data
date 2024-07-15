@@ -1,0 +1,5 @@
+erc: 
+what:مقالة بعنوان: "مجلس النواب الأردني يشجب حادث إغتيال فهد القواسمي" | An Article Entitled "The House of Representatives of Jordan Condemns the Assassination of Fahed Qawasmi" ; The Fahd al-Qawasmi Collection
+who: no data
+where: ark:/13030/m5gz22m1
+where: https://palarchive.org/index.php/Detail/objects/189703/lang/en_US

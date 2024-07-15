@@ -1,0 +1,5 @@
+erc: 
+what:وثيقة تحوي جداول ديموغرافية لقرية أرطاس عام  1993 | A document containing the demographic tables of Artas village in 1993 ; The Fadi Sanad Collection
+who: no data
+where: ark:/13030/m5vf4c0p
+where: https://palarchive.org/index.php/Detail/objects/102612/lang/en_US

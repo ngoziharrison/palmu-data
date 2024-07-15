@@ -1,0 +1,5 @@
+erc: 
+what:"متى نلتقي" | A poem entitled "When Will We Meet" ; The Tawfiq Zayyad Collection
+who: no data
+where: ark:/13030/m5gc17wf
+where: https://palarchive.org/index.php/Detail/objects/116002/lang/en_US

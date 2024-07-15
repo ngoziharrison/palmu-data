@@ -1,0 +1,5 @@
+erc: 
+what:"صورة شخصية من ستوديو باريس في عمان" | A Portrait Taken at Paris Studio in Amman ; The Musa Allush Collection
+who: no data
+where: ark:/13030/m5p9227d
+where: https://palarchive.org/index.php/Detail/objects/163122/lang/en_US

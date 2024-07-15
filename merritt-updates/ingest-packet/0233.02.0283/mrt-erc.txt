@@ -1,0 +1,5 @@
+erc: 
+what:"محاضرات للقواسمى في امريكا" | "Qawasmi's Lectures in America" ; The Fahd al-Qawasmi Collection
+who: no data
+where: ark:/13030/m5np9vhn
+where: https://palarchive.org/index.php/Detail/objects/189932/lang/en_US

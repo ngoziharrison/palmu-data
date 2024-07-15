@@ -1,0 +1,5 @@
+erc: 
+what:"نص مسرحية كتبه يعقوب الشوملي بعنوان " اين الصحراء | "Ayna Aṣ-Ṣahraʿ", a Playscript by Yaʿqub ash-Shaumaly ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m5dv913w
+where: https://palarchive.org/index.php/Detail/objects/46316/lang/en_US

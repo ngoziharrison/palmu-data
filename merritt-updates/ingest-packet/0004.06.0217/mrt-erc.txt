@@ -1,0 +1,5 @@
+erc: 
+what:سند قبض | Receipt ; The Omar al-Qasim Collection
+who: no data
+where: ark:/13030/m5p63051
+where: https://palarchive.org/index.php/Detail/objects/21785/lang/en_US

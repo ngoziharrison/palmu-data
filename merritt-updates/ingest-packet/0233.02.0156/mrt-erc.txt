@@ -1,0 +1,5 @@
+erc: 
+what:"مقالة بعنوان "فهد القواسمي | "Fahed Qawasmi", an Article ; The Fahd al-Qawasmi Collection
+who: no data
+where: ark:/13030/m5jj1b7h
+where: https://palarchive.org/index.php/Detail/objects/189805/lang/en_US

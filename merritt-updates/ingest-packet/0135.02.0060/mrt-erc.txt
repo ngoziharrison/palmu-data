@@ -1,0 +1,5 @@
+erc: 
+what:"أسماء الفنانين التشكيليين المؤازرين المشاركين"، 1989 | The Names of Visual Artists Featured in the LPA's Art Exhibit for Supporting Artists, 1989 ; The Adnan Zubaidy Collection
+who: no data
+where: ark:/13030/m5gn5wtp
+where: https://palarchive.org/index.php/Detail/objects/217925/lang/en_US

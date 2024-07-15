@@ -1,0 +1,5 @@
+erc: 
+what:"بيتنا التلحمي القديم" | "Our old Bethlehem House" ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5z96xn4
+where: https://palarchive.org/index.php/Detail/objects/99042/lang/en_US

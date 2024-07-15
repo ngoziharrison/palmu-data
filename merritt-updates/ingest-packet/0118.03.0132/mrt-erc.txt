@@ -1,0 +1,5 @@
+erc: 
+what:قائمة بأسماء كتب | Books ; The Tulkarm Municipality Collection
+who: no data
+where: ark:/13030/m51624qk
+where: https://palarchive.org/index.php/Detail/objects/206220/lang/en_US

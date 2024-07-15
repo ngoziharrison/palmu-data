@@ -1,0 +1,5 @@
+erc: 
+what:نص بعنوان "صبرا وشاتيلا" | A text entitled "Sabra and Shatila" ; The Layla Tarazi Collection
+who: no data
+where: ark:/13030/m5sn7s24
+where: https://palarchive.org/index.php/Detail/objects/86272/lang/en_US

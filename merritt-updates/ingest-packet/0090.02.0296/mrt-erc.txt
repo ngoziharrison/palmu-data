@@ -1,0 +1,5 @@
+erc: 
+what:سند قبض | Receipt Voucher ; The Arab Women Union of Ramallah Collection
+who: no data
+where: ark:/13030/m5m97tvv
+where: https://palarchive.org/index.php/Detail/objects/99222/lang/en_US

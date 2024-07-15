@@ -1,0 +1,5 @@
+erc: 
+what:إحصائية تبين الحالة الاجتماعية للأسرى الفلسطيين من 1987 - 1990 | Statistical data on the marital status of the Palestinian prisoners between 1987 and 1990 ; The Abu Alaa Mansour Collection
+who: no data
+where: ark:/13030/m5133822
+where: https://palarchive.org/index.php/Detail/objects/48630/lang/en_US

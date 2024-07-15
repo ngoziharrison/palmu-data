@@ -1,0 +1,5 @@
+erc: 
+what:"وثيقة تحوي تفاصيل"الكميات التي تم وضعها في المخططات الهندسية | A document containing the details of the quantities that were placed in the engineering drawings ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5km6x3n
+where: https://palarchive.org/index.php/Detail/objects/105703/lang/en_US

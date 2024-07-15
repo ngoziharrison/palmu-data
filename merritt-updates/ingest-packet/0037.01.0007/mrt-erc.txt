@@ -1,0 +1,5 @@
+erc: 
+what:سند قبض صادر عن حكومة فلسطين | A Tithe Receipt Issued by the Palestinian Government ; The Abdullah Afaneh Collection
+who: no data
+where: ark:/13030/m5cs35v4
+where: https://palarchive.org/index.php/Detail/objects/24821/lang/en_US

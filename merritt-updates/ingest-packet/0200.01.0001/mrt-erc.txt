@@ -1,0 +1,5 @@
+erc: 
+what:A portrait of a man in a military uniform | nan ; The Hanna Awad Collection
+who: no data
+where: ark:/13030/m5fz5145
+where: https://palarchive.org/index.php/Detail/objects/145061/lang/en_US

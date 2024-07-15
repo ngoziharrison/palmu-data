@@ -1,0 +1,5 @@
+erc: 
+what:بطاقة وُثِّق عليها نكتة بعنوان "إعدام ياسر عرفات" | A card documenting a joke entitled "The Execution of Yassir Arafat" ; The Sharif Kanaana Collection
+who: no data
+where: ark:/13030/m555022c
+where: https://palarchive.org/index.php/Detail/objects/33840/lang/en_US

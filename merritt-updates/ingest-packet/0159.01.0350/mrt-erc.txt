@@ -1,0 +1,5 @@
+erc: 
+what:"صورة صانع أحذية في القدس" | "A Cordwainer in the Christian Quarter of Jerusalem", a Photo ; The Musa Allush Collection
+who: no data
+where: ark:/13030/m55792b2
+where: https://palarchive.org/index.php/Detail/objects/163400/lang/en_US

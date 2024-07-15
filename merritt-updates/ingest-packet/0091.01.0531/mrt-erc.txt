@@ -1,0 +1,5 @@
+erc: 
+what:"لوحة فنية تحمل آية من القرآن" | "لوحة فنية تحمل آية من القرآن" ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5jb3rm3
+where: https://palarchive.org/index.php/Detail/objects/99040/lang/en_US

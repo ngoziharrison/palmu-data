@@ -1,0 +1,5 @@
+erc: 
+what:حكاية شعبية فلسطينية بعنوان "محمد يرث ومحمد يرث ومحمد لا يرث" | A Palestinian folklore tale entitled "Mohammad inherits, Mohammad inherits, and Mohammad doesn't inherit after all" ; The Nabeel Alkam Collection
+who: no data
+where: ark:/13030/m5s545ps
+where: https://palarchive.org/index.php/Detail/objects/25663/lang/en_US

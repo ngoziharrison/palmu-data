@@ -1,0 +1,5 @@
+erc: 
+what:رواية كتبها يعقوب الشوملي | A novel written by Ya'qoub al-Shoumali ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m57t53zh
+where: https://palarchive.org/index.php/Detail/objects/96127/lang/en_US

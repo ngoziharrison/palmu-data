@@ -1,0 +1,5 @@
+erc: 
+what:"صورة لشارع قديم في مدينة نابلس" | A Photograph of an Old Street in Nablus ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5hb6qdt
+where: https://palarchive.org/index.php/Detail/objects/98826/lang/en_US

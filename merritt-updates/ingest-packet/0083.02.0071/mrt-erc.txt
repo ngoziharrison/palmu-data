@@ -1,0 +1,5 @@
+erc: 
+what:مجموعة أمثال شعبية وحِكَم من أرشيف ليلى ترزي | A collection of proverbs taken from the archive of Laila Terzi ; The Layla Tarazi Collection
+who: no data
+where: ark:/13030/m58t2628
+where: https://palarchive.org/index.php/Detail/objects/86248/lang/en_US

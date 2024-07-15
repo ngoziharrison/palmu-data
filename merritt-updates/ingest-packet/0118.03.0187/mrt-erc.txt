@@ -1,0 +1,5 @@
+erc: 
+what:كشف بأرصدة بلدية طولكرم في بنك القاهرة عمان وبنك هبوعليم والصندوق | A Bank Statement for Cairo Amman Bank and Bank Hapoalim ; The Tulkarm Municipality Collection
+who: no data
+where: ark:/13030/m54n6s90
+where: https://palarchive.org/index.php/Detail/objects/211593/lang/en_US

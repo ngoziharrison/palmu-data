@@ -1,0 +1,5 @@
+erc: 
+what:"نص مسرحية كتبه يعقوب الشوملي بعنوان "الهام حياتي | "Elham Hayati", a Play Script by Yaʿqub ash-Shaumaly ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m5fv626t
+where: https://palarchive.org/index.php/Detail/objects/46309/lang/en_US

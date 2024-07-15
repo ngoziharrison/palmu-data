@@ -1,0 +1,5 @@
+erc: 
+what:"صورة عزيز عيسى ناصر من بيرزيت"، 1941 | A Portrait of Aziz Issa Naṣer from Birzeit, 1920-30 ; The Musa Allush Collection
+who: no data
+where: ark:/13030/m55r2kc7
+where: https://palarchive.org/index.php/Detail/objects/163065/lang/en_US

@@ -1,0 +1,5 @@
+erc: 
+what:"رواية كتبها يعقوب الشوملي بعنوان " ملك وجيش | A novel entitled "A King and an Army" written by Ya'qoub al-Shoumali ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m50d29zj
+where: https://palarchive.org/index.php/Detail/objects/96129/lang/en_US

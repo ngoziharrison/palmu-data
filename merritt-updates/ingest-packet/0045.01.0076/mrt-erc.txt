@@ -1,0 +1,5 @@
+erc: 
+what:وثيقة تحوي معلومات حول أرطاس خلال الحكم العثماني | A document containing information about Artas during the Ottoman rule ; The Fadi Sanad Collection
+who: no data
+where: ark:/13030/m5qp3m9d
+where: https://palarchive.org/index.php/Detail/objects/102610/lang/en_US

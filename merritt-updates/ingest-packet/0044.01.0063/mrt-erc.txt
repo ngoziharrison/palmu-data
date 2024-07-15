@@ -1,0 +1,5 @@
+erc: 
+what:بطاقة وُثِّق عليها نكتة بعنوان "رحلة دار الأيتام" | A card documenting a joke entitled "The Trip of an Orphanage"" ; The Sharif Kanaana Collection
+who: no data
+where: ark:/13030/m53r865n
+where: https://palarchive.org/index.php/Detail/objects/33083/lang/en_US

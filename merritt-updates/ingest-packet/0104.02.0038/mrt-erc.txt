@@ -1,0 +1,5 @@
+erc: 
+what:"شباكي وأنا" | "I and My Window" ; The Tawfiq Zayyad Collection
+who: no data
+where: ark:/13030/m59m3g43
+where: https://palarchive.org/index.php/Detail/objects/116010/lang/en_US

@@ -1,0 +1,5 @@
+erc: 
+what:نص مسرحية كتبه يعقوب الشوملي بعنوان "شعب لن يموت". | A play written by Ya'qoub al-Shoumali entitled "an Undying Nation" ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m58t254r
+where: https://palarchive.org/index.php/Detail/objects/96079/lang/en_US

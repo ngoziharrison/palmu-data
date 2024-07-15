@@ -1,0 +1,5 @@
+erc: 
+what:مقالة نشرت بعمود "فيتو" بعنوان " برنامج ميت" | An article entitled "A Dead Program" published in the "Vito" column ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m59388cg
+where: https://palarchive.org/index.php/Detail/objects/96044/lang/en_US

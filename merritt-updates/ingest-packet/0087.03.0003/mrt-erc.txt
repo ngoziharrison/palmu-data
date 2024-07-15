@@ -1,0 +1,5 @@
+erc: 
+what:"فاتورة مشتريات"، حزيران 1977 | An Invoice, 15 June 1977 ; The Arab Development Society Collection
+who: no data
+where: ark:/13030/m5rg3b8w
+where: https://palarchive.org/index.php/Detail/objects/204919/lang/en_US

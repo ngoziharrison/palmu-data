@@ -1,0 +1,5 @@
+erc: 
+what:مطالبة دفع حساب | Financial Claim ; The Tulkarm Municipality Collection
+who: no data
+where: ark:/13030/m5ds0h3k
+where: https://palarchive.org/index.php/Detail/objects/119587/lang/en_US

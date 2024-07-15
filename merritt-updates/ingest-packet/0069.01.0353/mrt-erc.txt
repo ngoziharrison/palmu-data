@@ -1,0 +1,5 @@
+erc: 
+what:"مقالة نشرت بعمود "فيتو" بعنوان "اكثر من تاريخ | An article entitled "More Than Just a Date" published in the "Vito" column ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m51w2w5d
+where: https://palarchive.org/index.php/Detail/objects/123329/lang/en_US

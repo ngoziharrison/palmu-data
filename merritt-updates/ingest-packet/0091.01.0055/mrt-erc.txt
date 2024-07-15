@@ -1,0 +1,5 @@
+erc: 
+what:"صورة مدرسة في مدينة الخليل" | A Photograph of a School in Hebron City ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5mq2nd6
+where: https://palarchive.org/index.php/Detail/objects/85972/lang/en_US

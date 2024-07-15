@@ -1,0 +1,5 @@
+erc: 
+what:"صورة لبائع تمر هندي في سوق مدينة الخليل" | "صورة لبائع تمر هندي في سوق مدينة الخليل" ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5287sv4
+where: https://palarchive.org/index.php/Detail/objects/99021/lang/en_US

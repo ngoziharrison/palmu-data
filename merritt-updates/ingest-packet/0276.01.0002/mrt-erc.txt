@@ -1,0 +1,5 @@
+erc: 
+what:"صورة من مسرحية الحمار العجيب لفرقة المسسرح الشعبي"، 1989 | A Photograph of the Theatrical Performance "Al-Himar al-Ajib", the Popular Theatre Troupe, 1989 ; The Popular Theater Society for Performing Arts and Training Collection
+who: no data
+where: ark:/13030/m50m01s9
+where: https://palarchive.org/index.php/Detail/objects/219344/lang/en_US

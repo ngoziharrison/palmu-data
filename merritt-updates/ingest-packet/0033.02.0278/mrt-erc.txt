@@ -1,0 +1,5 @@
+erc: 
+what:فاتورة توضح ثمن 3 كيلو ليمون من متعهد وتاجر خضار | An Invoice Consisting of the Price of 3 Kilos of Lemon from Contractor and Vegt. Merchant ; The Sareyyet Ramallah-First Ramallah Group Collection
+who: no data
+where: ark:/13030/m5h494cd
+where: https://palarchive.org/index.php/Detail/objects/27205/lang/en_US

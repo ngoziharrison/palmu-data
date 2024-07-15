@@ -1,0 +1,5 @@
+erc: 
+what:"صورة رجل يسير في شوارع بلدة بيرزيت" | A Photograph of a Man Walking in the Streets of Birzeit ; The Musa Allush Collection
+who: no data
+where: ark:/13030/m51p5qf0
+where: https://palarchive.org/index.php/Detail/objects/163106/lang/en_US

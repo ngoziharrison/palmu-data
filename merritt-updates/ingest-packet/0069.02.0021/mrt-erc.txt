@@ -1,0 +1,5 @@
+erc: 
+what:"نص مسرحية كتبه يعقوب الشوملي بعنوان " حب لا يعرف الحدود | "Hub La Yaʿrif al-Hudud", a Playscript by Yaʿqub ash-Shaumaly ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m54c0ghx
+where: https://palarchive.org/index.php/Detail/objects/46314/lang/en_US

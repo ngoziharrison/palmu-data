@@ -1,0 +1,5 @@
+erc: 
+what:بطاقة تعريفية لطالب مدرسة في بلدة بيرزيت | The ID of a student from Birzeit ; The Omar and Nael al-Barghouthi Collection
+who: no data
+where: ark:/13030/m58h5z66
+where: https://palarchive.org/index.php/Detail/objects/23100/lang/en_US

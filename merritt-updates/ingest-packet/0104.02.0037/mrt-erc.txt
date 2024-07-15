@@ -1,0 +1,5 @@
+erc: 
+what:"عريسك قادم" | "Your Groom is on his Way" ; The Tawfiq Zayyad Collection
+who: no data
+where: ark:/13030/m5tn6g1w
+where: https://palarchive.org/index.php/Detail/objects/116009/lang/en_US

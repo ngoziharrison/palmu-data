@@ -1,0 +1,5 @@
+erc: 
+what:وثيقة بعنوان "قصص شعبية عن الزيتون" | A document entitled "Traditional Stories about Olives" ; The Fadi Sanad Collection
+who: no data
+where: ark:/13030/m5287n5h
+where: https://palarchive.org/index.php/Detail/objects/44304/lang/en_US

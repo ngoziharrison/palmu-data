@@ -1,0 +1,5 @@
+erc: 
+what:"رسالة الخليل من مراسلنا : رفيق الشريف" | "The Message of Hebron from our Broadcaster: Rafiq ash-Sharif" ; The Fahd al-Qawasmi Collection
+who: no data
+where: ark:/13030/m5sg0m8c
+where: https://palarchive.org/index.php/Detail/objects/189927/lang/en_US

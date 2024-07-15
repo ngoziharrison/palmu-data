@@ -1,0 +1,5 @@
+erc: 
+what:"صورة لمنزل عماد الدين أبو ميزر في باب حُطّة"، القدس | "Imad ad-Din abu Maizar's House in the Old Bab Hutta St.", a Photo ; The Musa Allush Collection
+who: no data
+where: ark:/13030/m5q60d0x
+where: https://palarchive.org/index.php/Detail/objects/163408/lang/en_US

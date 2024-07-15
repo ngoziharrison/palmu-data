@@ -1,0 +1,5 @@
+erc: 
+what:مسرحية "أرض وسما"<br /> | A Photograph of "Ard Wa Sama", a Theatrical Performance by Ashtar Theatre, 2000<br /> ; The Ashtar Theater Collection
+who: no data
+where: ark:/13030/m5fr7kk9
+where: https://palarchive.org/index.php/Detail/objects/208812/lang/en_US

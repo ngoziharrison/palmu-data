@@ -1,0 +1,5 @@
+erc: 
+what:"صورة مصنوعات خزفية من أحد مصانع الخليل" | "صورة مصنوعات خزفية من أحد مصانع الخليل" ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m56f3c63
+where: https://palarchive.org/index.php/Detail/objects/98914/lang/en_US

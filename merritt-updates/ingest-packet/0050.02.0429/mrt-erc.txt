@@ -1,0 +1,5 @@
+erc: 
+what:"عناوين أخبار"، ورقة صادرة عن خدمات الصحافة الفلسطينية، كانون أول 1979 | News Items Issued by Palestine Press Services, December 1979 ; The Bassam Shak’a Collection
+who: no data
+where: ark:/13030/m5c03mt4
+where: https://palarchive.org/index.php/Detail/objects/211266/lang/en_US

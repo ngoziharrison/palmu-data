@@ -1,0 +1,5 @@
+erc: 
+what:"صورة طفل على عربة يجرها حصان في منطقة رأس العاروض" | "صورة طفل على عربة يجرها حصان في منطقة رأس العاروض" ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5tr3krf
+where: https://palarchive.org/index.php/Detail/objects/99032/lang/en_US

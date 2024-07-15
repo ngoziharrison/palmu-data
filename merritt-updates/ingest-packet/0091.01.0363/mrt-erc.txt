@@ -1,0 +1,5 @@
+erc: 
+what:"صورة بيت قديم لحسين بدر في العديسة" | "صورة بيت قديم لحسين بدر في العديسة" ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5rk23nk
+where: https://palarchive.org/index.php/Detail/objects/98872/lang/en_US

@@ -1,0 +1,5 @@
+erc: 
+what:نص بعنوان "لبنان" | A text entitled "Lebanon" ; The Layla Tarazi Collection
+who: no data
+where: ark:/13030/m5m40bw4
+where: https://palarchive.org/index.php/Detail/objects/86268/lang/en_US

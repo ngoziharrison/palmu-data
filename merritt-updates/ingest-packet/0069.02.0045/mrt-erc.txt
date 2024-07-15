@@ -1,0 +1,5 @@
+erc: 
+what:نص مسرحية كتبه يعقوب الشوملي بعنوان " اللقاء الكبير". | A play written by Ya'qoub al-Shoumali entitled "The Big Meeting" ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m52590dh
+where: https://palarchive.org/index.php/Detail/objects/96097/lang/en_US

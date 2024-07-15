@@ -1,0 +1,5 @@
+erc: 
+what:نص بعنوان "أنا طفلةٌ يا أمي" | A text entitled "Oh Mother, I'm Merely a Child" ; The Layla Tarazi Collection
+who: no data
+where: ark:/13030/m525919k
+where: https://palarchive.org/index.php/Detail/objects/86269/lang/en_US

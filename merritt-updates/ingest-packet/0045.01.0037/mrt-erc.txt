@@ -1,0 +1,5 @@
+erc: 
+what:وثيقة بعنوان "أنواع الزيتون" | A document entitled "Olive Types" ; The Fadi Sanad Collection
+who: no data
+where: ark:/13030/m5n379gz
+where: https://palarchive.org/index.php/Detail/objects/44307/lang/en_US

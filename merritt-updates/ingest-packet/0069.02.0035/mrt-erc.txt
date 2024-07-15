@@ -1,0 +1,5 @@
+erc: 
+what:نص مسرحية كتبه يعقوب الشوملي بعنوان " معركة مجدو". | A play written by Ya'qoub al-Shoumali entitled "Battle of Megiddo" ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m5578t7f
+where: https://palarchive.org/index.php/Detail/objects/96087/lang/en_US

@@ -1,0 +1,5 @@
+erc: 
+what:"رواية كتبها يعقوب الشوملي بعنوان " حياة او موت | A novel entitled "Life or Death" written by Ya'qoub al-Shoumali ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m5dg46cv
+where: https://palarchive.org/index.php/Detail/objects/96122/lang/en_US

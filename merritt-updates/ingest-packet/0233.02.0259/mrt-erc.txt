@@ -1,0 +1,5 @@
+erc: 
+what:"كلمات تعبر عن رأينا" | "Qawasmi's Words Reflect Our Opinions" ; The Fahd al-Qawasmi Collection
+who: no data
+where: ark:/13030/m5bk93j5
+where: https://palarchive.org/index.php/Detail/objects/189908/lang/en_US

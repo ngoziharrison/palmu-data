@@ -1,0 +1,5 @@
+erc: 
+what:"تفاصيل جريمة إغتيال القواسمي" | Details of Qawasmi's Assassination ; The Fahd al-Qawasmi Collection
+who: no data
+where: ark:/13030/m5bk93g8
+where: https://palarchive.org/index.php/Detail/objects/189650/lang/en_US

@@ -1,0 +1,5 @@
+erc: 
+what:"صورة منظر عام لبلدة سعير"، 2000 | A Photograph of Sa'ir, 2000 ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m52w01bv
+where: https://palarchive.org/index.php/Detail/objects/98894/lang/en_US

@@ -1,0 +1,5 @@
+erc: 
+what:"صورة لمجموعة من الأشخاص خلال موسم حصاد القمح" | "صورة لمجموعة من الأشخاص خلال موسم حصاد القمح" ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m59m1wdw
+where: https://palarchive.org/index.php/Detail/objects/99036/lang/en_US

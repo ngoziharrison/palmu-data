@@ -1,0 +1,5 @@
+erc: 
+what:"حداد في الخليل اثر اعلان نبأ اغتيال الشهيد القواسمي" | "Mourning in Hebron Over the Assassination of Fahed Qawasmi" ; The Fahd al-Qawasmi Collection
+who: no data
+where: ark:/13030/m58h69ts
+where: https://palarchive.org/index.php/Detail/objects/189947/lang/en_US

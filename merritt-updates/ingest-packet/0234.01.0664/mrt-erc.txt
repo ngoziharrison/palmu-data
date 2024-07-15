@@ -1,0 +1,5 @@
+erc: 
+what:تمثال رمسيس في مصر | "A Photo of the Statue of Ramesses II in Egypt" ; The Centre for Architectural Conservation-Riwaq Collection
+who: no data
+where: ark:/13030/m5f55ddc
+where: https://palarchive.org/index.php/Detail/objects/176783/lang/en_US

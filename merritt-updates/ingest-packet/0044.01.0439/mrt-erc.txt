@@ -1,0 +1,5 @@
+erc: 
+what:بطاقة وُثِّق عليها نكتة بعنوان "احنا كمان!" | A card documenting a joke entitled "Us Too!" ; The Sharif Kanaana Collection
+who: no data
+where: ark:/13030/m555020g
+where: https://palarchive.org/index.php/Detail/objects/33459/lang/en_US

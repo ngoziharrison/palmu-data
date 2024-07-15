@@ -1,0 +1,5 @@
+erc: 
+what:<div>قصاصة من جريدة بالعبرية تحتوي على خبر عرض مسرحية "محجوب- محجوب" في مدينة اللد</div> | <table><tbody><tr><td>A Clipping from an Israeli Newspaper Featuring a News Report on el-Hakawati Theatre </td> </tr></tbody></table> ; The Palestinian National Theatre- al-Hakawati Collection
+who: no data
+where: ark:/13030/m5hj49s3
+where: https://palarchive.org/index.php/Detail/objects/203601/lang/en_US

@@ -1,0 +1,5 @@
+erc: 
+what:مقالة نشرت بعمود "فيتو" بعنوان " كتب شكسبير" | An article entitled "Shakespeare's Books" published in the "Vito" column ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m5ns8939
+where: https://palarchive.org/index.php/Detail/objects/95863/lang/en_US

@@ -1,0 +1,5 @@
+erc: 
+what:بطاقة وُثِّق عليها مثل شعبي بعنوان "مالقوش عشا" | A card documenting a proverb entitled "To Squander Money You don't Have" ; The Sharif Kanaana Collection
+who: no data
+where: ark:/13030/m53278db
+where: https://palarchive.org/index.php/Detail/objects/34722/lang/en_US

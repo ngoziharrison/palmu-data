@@ -1,0 +1,5 @@
+erc: 
+what:بطاقة وُثِّق عليها مثل بعنوان "شعرة من دقن الخنزير" | A card documenting a proverb entitled "Make the Most of" ; The Sharif Kanaana Collection
+who: no data
+where: ark:/13030/m5j17gqj
+where: https://palarchive.org/index.php/Detail/objects/34727/lang/en_US

@@ -1,0 +1,5 @@
+erc: 
+what:"صورة كنعان خوري في البحرين"، 1955 | A Photograph of Kanʿan Khury in Bahrain, 1955 ; The Dawoud Khoury Collection
+who: no data
+where: ark:/13030/m5356901
+where: https://palarchive.org/index.php/Detail/objects/164808/lang/en_US

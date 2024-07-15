@@ -1,0 +1,5 @@
+erc: 
+what:نص مسرحية كتبه يعقوب الشوملي بعنوان "قصة البطولة". | A play written by Ya'qoub al-Shoumali entitled "Heroism Story" ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m5909k0m
+where: https://palarchive.org/index.php/Detail/objects/96098/lang/en_US

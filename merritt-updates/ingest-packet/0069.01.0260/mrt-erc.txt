@@ -1,0 +1,5 @@
+erc: 
+what:مقالة نشرت بعمود "فيتو" بعنوان "المسرح الاردني". | An article entitled "The Jordanian Theatre" published in the "Vito" column ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m54c0ggg
+where: https://palarchive.org/index.php/Detail/objects/95993/lang/en_US

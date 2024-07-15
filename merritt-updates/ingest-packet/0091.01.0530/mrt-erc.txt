@@ -1,0 +1,5 @@
+erc: 
+what:"صورة لمنتجات مصنع حديد في الخليل" | "صورة لمنتجات مصنع حديد في الخليل" ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5k723bj
+where: https://palarchive.org/index.php/Detail/objects/99039/lang/en_US

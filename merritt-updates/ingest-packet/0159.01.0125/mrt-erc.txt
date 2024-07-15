@@ -1,0 +1,5 @@
+erc: 
+what:"صورة لمجموعة من الأشخاص في منزل قديم في بيرزيت" | A Photograph of People at an Old House in Birzeit ; The Musa Allush Collection
+who: no data
+where: ark:/13030/m51k7112
+where: https://palarchive.org/index.php/Detail/objects/163175/lang/en_US

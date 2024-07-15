@@ -1,0 +1,5 @@
+erc: 
+what:كشف بالدوسيات المرسلة الى المخزن بتاريخ 5/3/1963 | "A List of the Dossiers Sent to the Storage Unit on March 5, 1963" ; The Tulkarm Municipality Collection
+who: no data
+where: ark:/13030/m5bh09jj
+where: https://palarchive.org/index.php/Detail/objects/206040/lang/en_US

@@ -1,0 +1,5 @@
+erc: 
+what:سند قبض في عام 1969 | A Receipt Issued in 1969 ; The Mohammad Ali al-Maloukh Collection
+who: no data
+where: ark:/13030/m5rr9fdz
+where: https://palarchive.org/index.php/Detail/objects/49899/lang/en_US

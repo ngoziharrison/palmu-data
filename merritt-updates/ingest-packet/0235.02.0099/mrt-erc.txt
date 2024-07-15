@@ -1,0 +1,5 @@
+erc: 
+what:قصاصة من جريدة بالعبرية تحتوي على تقرير صحفي يتحدث عن مسرح الحكواتي | <table><tbody><tr><td>A Clipping from an Israeli Newspaper Featuring a News Report on el-Hakawati Theatre </td> </tr></tbody></table> ; The Palestinian National Theatre- al-Hakawati Collection
+who: no data
+where: ark:/13030/m567651f
+where: https://palarchive.org/index.php/Detail/objects/203562/lang/en_US

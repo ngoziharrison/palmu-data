@@ -1,0 +1,5 @@
+erc: 
+what:سند قبض | A Receipt ; The Fahd al-Qawasmi Collection
+who: no data
+where: ark:/13030/m5m699c3
+where: https://palarchive.org/index.php/Detail/objects/190312/lang/en_US

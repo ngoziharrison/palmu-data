@@ -1,0 +1,5 @@
+erc: 
+what:كشف حساب من البنك العربي المحدود | A Balance Sheet from the Arab Bank ; The Abdel-Hamid Hiwwari Collection
+who: no data
+where: ark:/13030/m5qp3zz2
+where: https://palarchive.org/index.php/Detail/objects/200078/lang/en_US

@@ -1,0 +1,5 @@
+erc: 
+what:بيان مفردات البضائع | Statement of Goods' Items ; The Ziad Yousef Collection
+who: no data
+where: ark:/13030/m5dc5cmd
+where: https://palarchive.org/index.php/Detail/objects/17262/lang/en_US

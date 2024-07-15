@@ -1,0 +1,5 @@
+erc: 
+what:"صورة لعثمان اسمير من قرية عقريا"، 1930 - 1940 | A Photo of Uthman Ismir, 1930-40 ; The Othman Ismir Collection
+who: no data
+where: ark:/13030/m5mq2t2s
+where: https://palarchive.org/index.php/Detail/objects/183364/lang/en_US

@@ -1,0 +1,5 @@
+erc: 
+what:سند صرف | Payment Voucher ; The Palestine New Federation of Trade Unions Collection
+who: no data
+where: ark:/13030/m5gr49xn
+where: https://palarchive.org/index.php/Detail/objects/215157/lang/en_US

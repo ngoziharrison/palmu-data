@@ -1,0 +1,5 @@
+erc: 
+what:طلاب في زيارة لمتحف فلسطين للآثار | Students visiting the Palestine Museum of Antiquities ; The Bassam Shak’a Collection
+who: no data
+where: ark:/13030/m5wb2r0r
+where: https://palarchive.org/index.php/Detail/objects/32172/lang/en_US

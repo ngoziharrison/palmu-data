@@ -1,0 +1,5 @@
+erc: 
+what:عرض مسرحية "البيت الخاصب" | The theatrical performance of "Al-Bait al-Khaseb" ; Al-Kasaba Theatre and Cinematheque Collection
+who: no data
+where: ark:/13030/m5vt97ms
+where: https://palarchive.org/index.php/Detail/objects/77264/lang/en_US

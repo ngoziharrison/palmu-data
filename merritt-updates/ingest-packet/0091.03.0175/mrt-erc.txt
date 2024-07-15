@@ -1,0 +1,5 @@
+erc: 
+what:"وثيقة تحوي تفاصيل"نداء-بقية | A document containing details of an "appeal" ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5q31jhn
+where: https://palarchive.org/index.php/Detail/objects/105735/lang/en_US

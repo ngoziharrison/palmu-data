@@ -1,0 +1,5 @@
+erc: 
+what:"صورة لبناء قديم في البلدة القديمة في الخليل" | A Photograph of a Building in the Old City of Hebron ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5d5863p
+where: https://palarchive.org/index.php/Detail/objects/85969/lang/en_US

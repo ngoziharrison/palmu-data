@@ -1,0 +1,5 @@
+erc: 
+what:شهادة اثبات عمل في قسم الكهرباء التابع للقوات الجوية المسلحة البريطانية في دولة الكويت | Proof of work certificate for the electricity department of the British Armed Airforces in Kuwait ; The Mustafa Othman Collection
+who: no data
+where: ark:/13030/m50s71r7
+where: https://palarchive.org/index.php/Detail/objects/26513/lang/en_US

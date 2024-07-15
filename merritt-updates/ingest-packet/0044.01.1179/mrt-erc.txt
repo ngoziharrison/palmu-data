@@ -1,0 +1,5 @@
+erc: 
+what:بطاقة وُثِّق عليها نكتة بعنوان "موت سريري" | A card documenting a joke entitled "Clinical Death" ; The Sharif Kanaana Collection
+who: no data
+where: ark:/13030/m5q02p72
+where: https://palarchive.org/index.php/Detail/objects/34199/lang/en_US

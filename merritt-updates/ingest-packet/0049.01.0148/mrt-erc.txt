@@ -1,0 +1,5 @@
+erc: 
+what:رسالة إثبات عمل لإحدى العاملات في مركز رعاية ذوي الاحتياجات الخاصة التابع لجمعية سلفيت الخيرية | Proof of work for one of the workers of the Salfeet Women Charity centre for caring for people with special needs ; The Salfeet Women Charity Collection
+who: no data
+where: ark:/13030/m57t53db
+where: https://palarchive.org/index.php/Detail/objects/45283/lang/en_US

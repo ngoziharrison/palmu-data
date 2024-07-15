@@ -1,0 +1,5 @@
+erc: 
+what:"مقالة بعنوان:"دانى روبنشتاين في دافار صفقة فاشلة منذ بدايتها | "Danny Rubinstein at Davar Newspaper, a Failed Deal Since its Inception", an Article ; The Fahd al-Qawasmi Collection
+who: no data
+where: ark:/13030/m55b7sk5
+where: https://palarchive.org/index.php/Detail/objects/189794/lang/en_US

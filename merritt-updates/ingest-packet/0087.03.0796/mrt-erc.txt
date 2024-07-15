@@ -1,0 +1,5 @@
+erc: 
+what:"كتاب بعنوان "جعية المشروع الانشائي العربي، 1960 | "The Arab Development Society", a Book, 1960 ; The Arab Development Society Collection
+who: no data
+where: ark:/13030/m54n6mv3
+where: https://palarchive.org/index.php/Detail/objects/205712/lang/en_US

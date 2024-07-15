@@ -1,0 +1,5 @@
+erc: 
+what:"مقالة نشرت بعمود "فيتو" بعنوان "موت أو حياه | An article entitled "Life or Death" published in the "Vito" column ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m51337vz
+where: https://palarchive.org/index.php/Detail/objects/123327/lang/en_US

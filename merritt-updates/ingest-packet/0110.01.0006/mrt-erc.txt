@@ -1,0 +1,5 @@
+erc: 
+what:غير معروف | "A Group Portrait Taken at the Photographic Studio C. Raad, Jerusalem", 1914 ; The Malak al-Husseini Collection
+who: no data
+where: ark:/13030/m58703vq
+where: https://palarchive.org/index.php/Detail/objects/112941/lang/en_US

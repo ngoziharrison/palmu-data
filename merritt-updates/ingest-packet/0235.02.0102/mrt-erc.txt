@@ -1,0 +1,5 @@
+erc: 
+what:<div>قصاصة من جريدة بالعبرية تحتوي على تقرير صحفي يتحدث عن مسرحية "محجوب- محجوب"</div> | <table><tbody><tr><td>A Clipping from an Israeli Newspaper Featuring a News Report on "Mahjub Mahjub" Play </td> </tr></tbody></table> ; The Palestinian National Theatre- al-Hakawati Collection
+who: no data
+where: ark:/13030/m5fz527x
+where: https://palarchive.org/index.php/Detail/objects/203565/lang/en_US

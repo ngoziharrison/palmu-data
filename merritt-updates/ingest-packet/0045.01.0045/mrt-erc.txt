@@ -1,0 +1,5 @@
+erc: 
+what:وثيقة بعنوان "البَّد" | A document entitled "Al-Bad" ; The Fadi Sanad Collection
+who: no data
+where: ark:/13030/m5bk8rw4
+where: https://palarchive.org/index.php/Detail/objects/44315/lang/en_US

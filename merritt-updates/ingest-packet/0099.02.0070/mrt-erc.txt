@@ -1,0 +1,5 @@
+erc: 
+what:بوليصة تأمين صدرت عن شركة الشرق للتأمين للمؤمن أحمد أسعد | An insurance policy issued by Al-Sharq Insurance Co. to the insured Ahmad As'ad ; The George al-A'ma Collection
+who: no data
+where: ark:/13030/m55n3rms
+where: https://palarchive.org/index.php/Detail/objects/97132/lang/en_US

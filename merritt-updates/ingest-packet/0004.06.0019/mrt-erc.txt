@@ -1,0 +1,5 @@
+erc: 
+what:"معجم الشهداء" قصيدة لسميح القاسم، 30 حزيران 1989 | An Elegy by Samih al-Qasim on Omar al-Qasim's death ; The Omar al-Qasim Collection
+who: no data
+where: ark:/13030/m51c97hh
+where: https://palarchive.org/index.php/Detail/objects/16991/lang/en_US

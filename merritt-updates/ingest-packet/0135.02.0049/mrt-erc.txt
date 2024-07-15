@@ -1,0 +1,5 @@
+erc: 
+what:"أخبار عن الفنانيين التشكيليين"، قصاصات من جريدة النهار، 1980 - 1990 | "News of Visual Artists", Newspaper Clippings, an-Nahar Newspaper, 1980-90 ; The Adnan Zubaidy Collection
+who: no data
+where: ark:/13030/m51k707b
+where: https://palarchive.org/index.php/Detail/objects/217914/lang/en_US

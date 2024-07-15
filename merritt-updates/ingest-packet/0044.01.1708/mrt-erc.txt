@@ -1,0 +1,5 @@
+erc: 
+what:بطاقة وُثِّق عليها مثل شعبي بعنوان "ليس بالإمكان" | A card documenting a proverb entitled "You Can Lead a Horse to Water but You Cannot Make it Drink" ; The Sharif Kanaana Collection
+who: no data
+where: ark:/13030/m5k4374v
+where: https://palarchive.org/index.php/Detail/objects/34728/lang/en_US

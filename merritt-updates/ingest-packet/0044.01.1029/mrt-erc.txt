@@ -1,0 +1,5 @@
+erc: 
+what:بطاقة وُثِّق عليها نكتة بعنوان "مدرس لغة عربية" | A card documenting a joke entitled "Arabic Language Teacher" ; The Sharif Kanaana Collection
+who: no data
+where: ark:/13030/m5wf1d1q
+where: https://palarchive.org/index.php/Detail/objects/34049/lang/en_US

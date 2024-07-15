@@ -1,0 +1,5 @@
+erc: 
+what:"صورة محمد صقر جرادات وإدريس جرادات في سعير" | A Photograph of Muhammad Ṣaqr Jaradat and Idris Jaradat in Sa'ir ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m50d2dzs
+where: https://palarchive.org/index.php/Detail/objects/98845/lang/en_US

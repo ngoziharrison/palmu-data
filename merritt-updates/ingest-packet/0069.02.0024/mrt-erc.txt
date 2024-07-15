@@ -1,0 +1,5 @@
+erc: 
+what:"نص مسرحية كتبه يعقوب الشوملي بعنوان " المقامرون | "Al-Muqamirun", a Playscript by Yaʿqub ash-Shaumaly ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m5vx7xp7
+where: https://palarchive.org/index.php/Detail/objects/46317/lang/en_US

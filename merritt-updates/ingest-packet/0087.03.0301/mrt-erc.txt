@@ -1,0 +1,5 @@
+erc: 
+what:فاتورة مالية | "A Receipt", Issued by JEPSC to Musa al-Alamy, 6/1935 ; The Arab Development Society Collection
+who: no data
+where: ark:/13030/m52c6f9g
+where: https://palarchive.org/index.php/Detail/objects/205217/lang/en_US

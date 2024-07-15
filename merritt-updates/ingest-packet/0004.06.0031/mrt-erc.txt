@@ -1,0 +1,5 @@
+erc: 
+what:"أسطورة عمر القاسم"، مجلة صوت البلاد، 1989 | The Legend of Omar al-Qasim ; The Omar al-Qasim Collection
+who: no data
+where: ark:/13030/m5zd5dkp
+where: https://palarchive.org/index.php/Detail/objects/17004/lang/en_US

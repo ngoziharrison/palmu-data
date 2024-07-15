@@ -1,0 +1,5 @@
+erc: 
+what:بطاقة وُثِّق عليها استعارة بعنوان "صيدليات" | A card documenting a metaphor entitled "Pharmacies" ; The Sharif Kanaana Collection
+who: no data
+where: ark:/13030/m5nh246j
+where: https://palarchive.org/index.php/Detail/objects/43593/lang/en_US

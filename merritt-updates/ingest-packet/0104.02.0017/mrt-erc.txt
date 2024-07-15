@@ -1,0 +1,5 @@
+erc: 
+what:قصيدة بعنوان "يا أم" | A poem entitled "O' Mother" ; The Tawfiq Zayyad Collection
+who: no data
+where: ark:/13030/m58t3tr2
+where: https://palarchive.org/index.php/Detail/objects/115989/lang/en_US

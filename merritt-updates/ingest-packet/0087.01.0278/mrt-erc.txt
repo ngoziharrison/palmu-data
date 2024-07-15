@@ -1,0 +1,5 @@
+erc: 
+what:صورة يحوي لوحة يظهر شخص مرسوم | A Drawing of a Person ; The Arab Development Society Collection
+who: no data
+where: ark:/13030/m5w45cjf
+where: https://palarchive.org/index.php/Detail/objects/204912/lang/en_US

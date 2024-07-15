@@ -1,0 +1,5 @@
+erc: 
+what:وثيقة تحوي إحصائية عن سكان أرطاس وتجمعاتهم السكنية في العام 1990 | A document containing statistics on the population of Artas in 1990 ; The Fadi Sanad Collection
+who: no data
+where: ark:/13030/m53z5m7f
+where: https://palarchive.org/index.php/Detail/objects/102613/lang/en_US

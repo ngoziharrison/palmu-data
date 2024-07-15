@@ -1,0 +1,5 @@
+erc: 
+what:"دراسة تقديم القواسمي للمحاكمة بتهمة الدعوة للعصيان المدني" | "Qawasmi Faces Charges for Calling for a Civil Disobedience" ; The Fahd al-Qawasmi Collection
+who: no data
+where: ark:/13030/m5133hrx
+where: https://palarchive.org/index.php/Detail/objects/189920/lang/en_US

@@ -1,0 +1,5 @@
+erc: 
+what:إطار لمجموعة صور ( يتبع تفصيل كل منها على حدة) | A frame of multiple photos ; The Qustandi Nasr Collection
+who: no data
+where: ark:/13030/m56763x8
+where: https://palarchive.org/index.php/Detail/objects/165318/lang/en_US

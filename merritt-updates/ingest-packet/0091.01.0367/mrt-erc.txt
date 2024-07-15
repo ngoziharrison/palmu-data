@@ -1,0 +1,5 @@
+erc: 
+what:"قنطرة مائية في منطقة الشفا في سعير" | "قنطرة مائية في منطقة الشفا في سعير" ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5m11qnw
+where: https://palarchive.org/index.php/Detail/objects/98876/lang/en_US

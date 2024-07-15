@@ -1,0 +1,5 @@
+erc: 
+what:وثيقة بعنوان "جمع الزيتون وعصره" | A document entitled "Picking and Pressing Olives" ; The Fadi Sanad Collection
+who: no data
+where: ark:/13030/m57t5284
+where: https://palarchive.org/index.php/Detail/objects/44309/lang/en_US

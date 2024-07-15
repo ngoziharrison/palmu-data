@@ -1,0 +1,5 @@
+erc: 
+what:"مقالة بعنوان:"تتابع حادث اغتيال الشهيد فهد القواسمي | "Tatabuʿ Hadeth Ightiyal ash-Shahid Fahed Qawasmi", an Article ; The Fahd al-Qawasmi Collection
+who: no data
+where: ark:/13030/m5s836fq
+where: https://palarchive.org/index.php/Detail/objects/189768/lang/en_US

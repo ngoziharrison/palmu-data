@@ -1,0 +1,5 @@
+erc: 
+what:كشف توضيحي لتوزيع الأسرى الفلسطينيين على المناطق من 1987 - 1990 | Statistical data for the distribution of the Palestinian prisoners on the areas between 1987 and 1990 ; The Abu Alaa Mansour Collection
+who: no data
+where: ark:/13030/m5h496vh
+where: https://palarchive.org/index.php/Detail/objects/48628/lang/en_US

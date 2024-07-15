@@ -1,0 +1,5 @@
+erc: 
+what:"الخليل ..لليوم الثامن تحت خطر التجول" | "Hebron, 8th Day Under Curfew" ; The Fahd al-Qawasmi Collection
+who: no data
+where: ark:/13030/m56x7258
+where: https://palarchive.org/index.php/Detail/objects/189909/lang/en_US

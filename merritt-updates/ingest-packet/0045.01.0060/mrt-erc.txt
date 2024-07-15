@@ -1,0 +1,5 @@
+erc: 
+what:وثيقة تحوي حكاية شعبية بعنوان "حدوتة رمظان" | A document containing a folk tale entitled "Hadodet Ramadan (A Ramadan Tale)" ; The Fadi Sanad Collection
+who: no data
+where: ark:/13030/m5258xqb
+where: https://palarchive.org/index.php/Detail/objects/102594/lang/en_US

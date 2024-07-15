@@ -1,0 +1,5 @@
+erc: 
+what:"صورة سرير طفل رضيع مصنوع يدوياً" | "صورة سرير طفل رضيع مصنوع يدوياً" ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5q02v00
+where: https://palarchive.org/index.php/Detail/objects/99037/lang/en_US

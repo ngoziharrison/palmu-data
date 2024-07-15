@@ -1,0 +1,5 @@
+erc: 
+what:بطاقة وُثِّق عليها نكتة بعنوان "أسباب الكوليرا" | A card documenting a joke entitled "Cholera Causes" ; The Sharif Kanaana Collection
+who: no data
+where: ark:/13030/m5578rdv
+where: https://palarchive.org/index.php/Detail/objects/34055/lang/en_US

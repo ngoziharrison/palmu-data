@@ -1,0 +1,5 @@
+erc: 
+what:وثيقة تحوي أمثالاً شعبية مواضيعها مرتبطة بالماء | A document containing traditional water-related proverbs ; The Fadi Sanad Collection
+who: no data
+where: ark:/13030/m5j4662c
+where: https://palarchive.org/index.php/Detail/objects/102595/lang/en_US

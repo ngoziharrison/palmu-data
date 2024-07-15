@@ -1,0 +1,5 @@
+erc: 
+what:"صورة لشارع في منطقة رأس العاروض في سعير" | A Photograph of the Ra's al-Arud Street in Sa'ir ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5065150
+where: https://palarchive.org/index.php/Detail/objects/98847/lang/en_US

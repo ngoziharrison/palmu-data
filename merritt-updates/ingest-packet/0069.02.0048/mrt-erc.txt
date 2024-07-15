@@ -1,0 +1,5 @@
+erc: 
+what:نص مسرحية كتبه يعقوب الشوملي بعنوان "دم الاحرار". | A play written by Ya'qoub al-Shoumali entitled "The Blood of the Free" ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m5j467s6
+where: https://palarchive.org/index.php/Detail/objects/96100/lang/en_US

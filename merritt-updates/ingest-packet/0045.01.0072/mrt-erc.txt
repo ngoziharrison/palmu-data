@@ -1,0 +1,5 @@
+erc: 
+what:وثيقة تحوي معلومات عامة حول قرية أرطاس | A document containing general information about Artas village ; The Fadi Sanad Collection
+who: no data
+where: ark:/13030/m5mw9wqh
+where: https://palarchive.org/index.php/Detail/objects/102606/lang/en_US

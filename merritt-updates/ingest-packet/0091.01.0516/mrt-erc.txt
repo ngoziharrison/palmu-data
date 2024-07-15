@@ -1,0 +1,5 @@
+erc: 
+what:"صورة عامل أثناء تنظيف بئر لجمع مياه الأمطار" | "صورة عامل أثناء تنظيف بئر لجمع مياه الأمطار" ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5vr0mwt
+where: https://palarchive.org/index.php/Detail/objects/99025/lang/en_US

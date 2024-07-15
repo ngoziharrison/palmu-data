@@ -1,0 +1,5 @@
+erc: 
+what:نص مسرحية كتبه يعقوب الشوملي بعنوان " اليد المشلولة". | A play written by Ya'qoub al-Shoumali entitled "The Paralyzed Hand" ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m5sv551j
+where: https://palarchive.org/index.php/Detail/objects/46319/lang/en_US

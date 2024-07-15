@@ -1,0 +1,5 @@
+erc: 
+what:"الإجتماع الشهري للجمعيات الطوعية" | "The Monthly Meeting of Voluntary Associations", a Meeting Agenda ; The Birzeit Women Charitable Society Collection
+who: no data
+where: ark:/13030/m5dc5qh6
+where: https://palarchive.org/index.php/Detail/objects/168915/lang/en_US

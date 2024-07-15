@@ -1,0 +1,5 @@
+erc: 
+what:شيك صادر عن شركة "أحمد الحاج إبراهيم واخوانه" في حيفا | A cheque issued by "Ahmad al-Haj Ibrahim and Brothers" company in Haifa ; The Amjad Ghannam Collection
+who: no data
+where: ark:/13030/m5gv37gn
+where: https://palarchive.org/index.php/Detail/objects/91938/lang/en_US

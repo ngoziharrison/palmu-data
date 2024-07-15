@@ -1,0 +1,5 @@
+erc: 
+what:كشف حساب صادر عن البنك العثماني باسم عبد الله الخطيب | A Bank Statement Issued by the Ottoman Bank for ʿabdallah al-Khatib ; The Sakher Khatib Collection
+who: no data
+where: ark:/13030/m53v75xr
+where: https://palarchive.org/index.php/Detail/objects/199935/lang/en_US

@@ -1,0 +1,5 @@
+erc: 
+what:وصل قبض | A Receipt Voucher ; The Sakher Khatib Collection
+who: no data
+where: ark:/13030/m5z68br5
+where: https://palarchive.org/index.php/Detail/objects/199941/lang/en_US

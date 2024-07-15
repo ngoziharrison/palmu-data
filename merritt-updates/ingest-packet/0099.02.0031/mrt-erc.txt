@@ -1,0 +1,5 @@
+erc: 
+what:بوليصة تأمين صدرت عن شركة الشرق للتأمين للمؤمن عبد الله عثمان | An insurance policy issued by Al-Sharq Insurance Co. to the insured Abdullah Othman ; The George al-A'ma Collection
+who: no data
+where: ark:/13030/m5b06qsr
+where: https://palarchive.org/index.php/Detail/objects/97093/lang/en_US

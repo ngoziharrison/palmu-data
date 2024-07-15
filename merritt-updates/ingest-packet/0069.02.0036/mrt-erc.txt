@@ -1,0 +1,5 @@
+erc: 
+what:نص مسرحية كتبه يعقوب الشوملي بعنوان " الخطوط الخلفية". | A play written by Ya'qoub al-Shoumali entitled "The Rearguard" ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m51g82gn
+where: https://palarchive.org/index.php/Detail/objects/96088/lang/en_US

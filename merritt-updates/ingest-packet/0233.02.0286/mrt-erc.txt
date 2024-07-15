@@ -1,0 +1,5 @@
+erc: 
+what:"بعض رؤساء البلديات لدى اعتصامهم امام سجن الرمله" | "Mayors Protest in Front of Ramlah Prison" ; The Fahd al-Qawasmi Collection
+who: no data
+where: ark:/13030/m56q9ncp
+where: https://palarchive.org/index.php/Detail/objects/189935/lang/en_US

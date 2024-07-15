@@ -1,0 +1,5 @@
+erc: 
+what:"رواية كتبها يعقوب الشوملي بعنوان " حرب الاعصاب | A novel entitled "Psychological Warfare" written by Ya'qoub al-Shoumali ; The Yacoub Shomali Collection
+who: no data
+where: ark:/13030/m5wb2rfk
+where: https://palarchive.org/index.php/Detail/objects/96125/lang/en_US

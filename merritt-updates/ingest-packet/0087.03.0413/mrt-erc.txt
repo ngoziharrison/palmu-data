@@ -1,0 +1,5 @@
+erc: 
+what:سند صرف | Cash Voucher ; The Arab Development Society Collection
+who: no data
+where: ark:/13030/m5gv34gd
+where: https://palarchive.org/index.php/Detail/objects/205329/lang/en_US

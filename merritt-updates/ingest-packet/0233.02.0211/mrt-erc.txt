@@ -1,0 +1,5 @@
+erc: 
+what:"رسالة الخليل" | The Hebron Letter ; The Fahd al-Qawasmi Collection
+who: no data
+where: ark:/13030/m5bp7ssv
+where: https://palarchive.org/index.php/Detail/objects/189860/lang/en_US

@@ -1,0 +1,5 @@
+erc: 
+what:"صورة من مسرحية الطائر الحزين لفرقة المسرح الشعبي"، 2006 | A Photograph of the Theatrical Performance "At-Taʾer al-Hazin", the Popular Theatre Troupe, 2006 ; The Popular Theater Society for Performing Arts and Training Collection
+who: no data
+where: ark:/13030/m5q03219
+where: https://palarchive.org/index.php/Detail/objects/219381/lang/en_US

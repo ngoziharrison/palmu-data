@@ -1,0 +1,5 @@
+erc: 
+what:خارطة "فلسطين كما كانت عام 1934" | Map of Palestine in 1934 ; The Layla Tarazi Collection
+who: no data
+where: ark:/13030/m5hr1g34
+where: https://palarchive.org/index.php/Detail/objects/121638/lang/en_US

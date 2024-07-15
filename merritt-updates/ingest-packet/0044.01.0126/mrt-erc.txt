@@ -1,0 +1,5 @@
+erc: 
+what:بطاقة وُثِّق عليها نكتة بعنوان "بوت صدّام" | A card documenting a joke entitled "Saddam's Shoe" ; The Sharif Kanaana Collection
+who: no data
+where: ark:/13030/m50h0zgd
+where: https://palarchive.org/index.php/Detail/objects/33146/lang/en_US

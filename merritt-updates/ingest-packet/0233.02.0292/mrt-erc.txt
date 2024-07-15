@@ -1,0 +1,5 @@
+erc: 
+what:"القواسمي يرفض عرضا من كهانا للاجتماع به" | "Qawasmi Turns Down Kahane's Meeting" ; The Fahd al-Qawasmi Collection
+who: no data
+where: ark:/13030/m5pp6wst
+where: https://palarchive.org/index.php/Detail/objects/189941/lang/en_US

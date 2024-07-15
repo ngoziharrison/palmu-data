@@ -1,0 +1,5 @@
+erc: 
+what:"رسائل مفتوحة"، رسائل من مجموعة بسام الشكعة، 1979 | "Open Letters", Letters from Bassam ash-Shakʿa's Collection ; The Bassam Shak’a Collection
+who: no data
+where: ark:/13030/m57t53m1
+where: https://palarchive.org/index.php/Detail/objects/211548/lang/en_US

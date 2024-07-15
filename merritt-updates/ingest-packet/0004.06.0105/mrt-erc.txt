@@ -1,0 +1,5 @@
+erc: 
+what:سند قبض من البنك العربي المحدود | A Paycheck  from the Arab Bank ; The Omar al-Qasim Collection
+who: no data
+where: ark:/13030/m5w4570m
+where: https://palarchive.org/index.php/Detail/objects/17078/lang/en_US

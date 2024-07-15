@@ -1,0 +1,5 @@
+erc: 
+what:"عسكري في بلدة بيرزيت" | A Soldier in Birzeit ; The Musa Allush Collection
+who: no data
+where: ark:/13030/m54539r2
+where: https://palarchive.org/index.php/Detail/objects/163156/lang/en_US

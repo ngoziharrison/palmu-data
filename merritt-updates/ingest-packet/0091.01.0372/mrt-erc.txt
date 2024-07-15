@@ -1,0 +1,5 @@
+erc: 
+what:"صورة مقام ديني يعود للعهد الفاطمي" | "صورة مقام ديني يعود للعهد الفاطمي" ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5g528gs
+where: https://palarchive.org/index.php/Detail/objects/98881/lang/en_US

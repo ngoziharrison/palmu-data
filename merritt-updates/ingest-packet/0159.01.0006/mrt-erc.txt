@@ -1,0 +1,5 @@
+erc: 
+what:"صورة شخصية لرجل من بلدة بيرزيت"، 1923 | A Portrait of a Man from Birzeit, 1923 ; The Musa Allush Collection
+who: no data
+where: ark:/13030/m5g52dks
+where: https://palarchive.org/index.php/Detail/objects/163056/lang/en_US

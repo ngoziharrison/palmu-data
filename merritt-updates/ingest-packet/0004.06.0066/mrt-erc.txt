@@ -1,0 +1,5 @@
+erc: 
+what:"كتابات على الحجر الفلسطيني"، مجلة الحرية، 5 تموز 1992 | Writings on Palestinian Stone ; The Omar al-Qasim Collection
+who: no data
+where: ark:/13030/m54r55np
+where: https://palarchive.org/index.php/Detail/objects/17039/lang/en_US

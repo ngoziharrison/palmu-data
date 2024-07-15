@@ -1,0 +1,5 @@
+erc: 
+what:"كتاب بعنوان "جمعية المشروع الانشائي العربي، 1953 | "The Arab Development Society", a Book, 1953 ; The Arab Development Society Collection
+who: no data
+where: ark:/13030/m5v48bjv
+where: https://palarchive.org/index.php/Detail/objects/205713/lang/en_US

@@ -1,0 +1,5 @@
+erc: 
+what:"مزارع يحرث الأرض بالمحراث اليدوي" | "مزارع يحرث الأرض بالمحراث اليدوي" ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m58t285f
+where: https://palarchive.org/index.php/Detail/objects/99047/lang/en_US

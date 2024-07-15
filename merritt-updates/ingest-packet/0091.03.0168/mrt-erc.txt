@@ -1,0 +1,5 @@
+erc: 
+what:"وثيقة تحوي تفاصيل"حجة ارض | A document containing details of a "land patent" ; As-Sanabil Center for Studies and Popular Heritage Collection
+who: no data
+where: ark:/13030/m5bw51xv
+where: https://palarchive.org/index.php/Detail/objects/105728/lang/en_US
